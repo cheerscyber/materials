@@ -11,15 +11,15 @@ The best way to use this material is to treat it as a loosely defined mapping of
 Program Details
 ===============
 * `Application Security`_
-* `Business Continuity`__
-* `Data Protection`__
-* `Governance, Risk & Compliance`__
-* `Identity and Access Management`__
-* `Network and Systems Security`__
-* `Physical and Personnel Security`__
-* `Security Incident Response`__
-* `Security Operations`__
-* `Security Program Management`__
+* `Business Continuity`_
+* `Data Protection`_
+* `Governance, Risk & Compliance`_
+* `Identity and Access Management`_
+* `Network and Systems Security`_
+* `Physical and Personnel Security`_
+* `Security Incident Response`_
+* `Security Operations`_
+* `Security Program Management`_
 
 .. _`Application Security`: application-security.rst
 .. _`Business Continuity`: business-continuity.rst
