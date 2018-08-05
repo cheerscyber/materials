@@ -10,17 +10,25 @@ Responsibilities
 
 Sub-Departments
 ===============
-* Application Penetration Testing
+
+Application Penetration Testing
+-------------------------------
 * Assess security controls of company resources
 * Outline vulnerabilities exploited and risk it poses to the business
 * Interface with developers and vulnerability management to develop a remediation plan
-* Secure Software Development
+
+Secure Software Development
+---------------------------
 * Review new and existing code to ensure it meets standards
-* Secure Design and Coding
+
+Secure Design and Coding
+------------------------
 * Define and maintain secure design and code standards
 * Work with architects and developers to increase awareness on best practices
 * Maintain list of approved resources for designs and code
-* Code Review
+
+Code Review
+-----------
 * Assess code quality
 
 Roles
